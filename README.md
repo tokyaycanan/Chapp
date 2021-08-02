@@ -1,1 +1,1 @@
-Firebase ve Firestore eklendi
+sağlıklı yaşam temalı oluşturulmuş bir react native projesidir.
